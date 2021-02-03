@@ -1,2 +1,2 @@
-# SpringJPA-truYum
-SpringJpa-truyum
+truyum-SpringJPA
+
